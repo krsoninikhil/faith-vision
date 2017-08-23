@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FaithVision</string>
+    <string name="read">Stop Vision</string>
+    <string name="server">http://54.213.101.65:8000/text.json</string>
+</resources>
