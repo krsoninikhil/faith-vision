@@ -2,3 +2,5 @@ tmp
 *.pyc
 *pynb*
 **build
+**gradle
+**idea
